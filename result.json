@@ -1,0 +1,3645 @@
+{
+    "name":"skyrim",
+    "children" :[
+    {
+        "name": "Dawnstar",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Beitild"
+                            },
+                            {
+                                "name": "Brina Merilis"
+                            },
+                            {
+                                "name": "Fruki"
+                            },
+                            {
+                                "name": "Irgnir"
+                            },
+                            {
+                                "name": "Bodil"
+                            },
+                            {
+                                "name": "Abelone"
+                            },
+                            {
+                                "name": "Karita"
+                            },
+                            {
+                                "name": "Edith"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Horik Halfhand"
+                            },
+                            {
+                                "name": "Gjak"
+                            },
+                            {
+                                "name": "Karl"
+                            },
+                            {
+                                "name": "Leigelf"
+                            },
+                            {
+                                "name": "Harlaug"
+                            },
+                            {
+                                "name": "Rustleif"
+                            },
+                            {
+                                "name": "Captain Wayfinder"
+                            },
+                            {
+                                "name": "Guthrum"
+                            },
+                            {
+                                "name": "Bulfrek"
+                            },
+                            {
+                                "name": "Frorkmar Banner-Torn"
+                            },
+                            {
+                                "name": "Gregor"
+                            },
+                            {
+                                "name": "Jod"
+                            },
+                            {
+                                "name": "Alding"
+                            },
+                            {
+                                "name": "Gjuk"
+                            },
+                            {
+                                "name": "Irlof"
+                            },
+                            {
+                                "name": "Stig Salt-Plank"
+                            },
+                            {
+                                "name": "Thoring"
+                            },
+                            {
+                                "name": "Borgny"
+                            },
+                            {
+                                "name": "Fenrik"
+                            },
+                            {
+                                "name": "Harald"
+                            },
+                            {
+                                "name": "Lond"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Frida"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Skald"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Redguard",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Alesan"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Seren"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dark Elf",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Irine"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Ravam Verethi"
+                            },
+                            {
+                                "name": "Erandur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Silus Vesuius"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Madena"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "High Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Vereth"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Falkreath",
+        "children": [
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Indara Caerellia"
+                            },
+                            {
+                                "name": "Valga Vinicia"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Mathies"
+                            },
+                            {
+                                "name": "Valdr"
+                            },
+                            {
+                                "name": "Dengeir of Stuhn"
+                            },
+                            {
+                                "name": "Thadgeir"
+                            },
+                            {
+                                "name": "Bolund"
+                            },
+                            {
+                                "name": "Solaf"
+                            },
+                            {
+                                "name": "Kust"
+                            },
+                            {
+                                "name": "Helvard"
+                            },
+                            {
+                                "name": "Siddgeir"
+                            },
+                            {
+                                "name": "Legate Skulnar"
+                            },
+                            {
+                                "name": "Lod"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Narri"
+                            },
+                            {
+                                "name": "Tekla"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Delacourt"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Redguard",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Zaria"
+                            },
+                            {
+                                "name": "Rayya"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "High Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Runil"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Nenya"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Markarth",
+        "children": [
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Imedhnain"
+                            },
+                            {
+                                "name": "Braig"
+                            },
+                            {
+                                "name": "Duach"
+                            },
+                            {
+                                "name": "Madanach"
+                            },
+                            {
+                                "name": "Odvan"
+                            },
+                            {
+                                "name": "Uraccen"
+                            },
+                            {
+                                "name": "Banning"
+                            },
+                            {
+                                "name": "Cedran"
+                            },
+                            {
+                                "name": "Morven"
+                            },
+                            {
+                                "name": "Tynan"
+                            },
+                            {
+                                "name": "Weylin"
+                            },
+                            {
+                                "name": "Anton Virane"
+                            },
+                            {
+                                "name": "Legate Emmanuel Admand"
+                            },
+                            {
+                                "name": "Rondach"
+                            },
+                            {
+                                "name": "Cosnach"
+                            },
+                            {
+                                "name": "Degaine"
+                            },
+                            {
+                                "name": "Dryston"
+                            },
+                            {
+                                "name": "Eltrys"
+                            },
+                            {
+                                "name": "Garvey"
+                            },
+                            {
+                                "name": "Hathrasil"
+                            },
+                            {
+                                "name": "Omluag"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Bothela"
+                            },
+                            {
+                                "name": "Muiri"
+                            },
+                            {
+                                "name": "Uaile"
+                            },
+                            {
+                                "name": "Senna"
+                            },
+                            {
+                                "name": "Nana Ildene"
+                            },
+                            {
+                                "name": "Rhiada"
+                            },
+                            {
+                                "name": "Voada"
+                            },
+                            {
+                                "name": "Cairine"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Lisbet"
+                            },
+                            {
+                                "name": "Frabbi"
+                            },
+                            {
+                                "name": "Hroki"
+                            },
+                            {
+                                "name": "Hamal"
+                            },
+                            {
+                                "name": "Orla"
+                            },
+                            {
+                                "name": "Betrid Silver-Blood"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Grisvar the Unlucky"
+                            },
+                            {
+                                "name": "Kibell"
+                            },
+                            {
+                                "name": "Ogmund"
+                            },
+                            {
+                                "name": "Hogni Red-Arm"
+                            },
+                            {
+                                "name": "Hreinn"
+                            },
+                            {
+                                "name": "Kleppr"
+                            },
+                            {
+                                "name": "Vorstag"
+                            },
+                            {
+                                "name": "Thonar Silver-Blood"
+                            },
+                            {
+                                "name": "Thongvor Silver-Blood"
+                            },
+                            {
+                                "name": "Yngvar the Singer"
+                            },
+                            {
+                                "name": "Igmund"
+                            },
+                            {
+                                "name": "Argis the Bulwark"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Redguard",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Captain Aquilius"
+                            },
+                            {
+                                "name": "Endon"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Adara"
+                            },
+                            {
+                                "name": "Kerah"
+                            },
+                            {
+                                "name": "Anwen"
+                            },
+                            {
+                                "name": "Faleen"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Borkul the Beast"
+                            },
+                            {
+                                "name": "Mulush gro-Shugurz"
+                            },
+                            {
+                                "name": "Moth gro-Bagol"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Urzoga gra-Shugurz"
+                            },
+                            {
+                                "name": "Ghorza gra-Bagol"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Brother Verulus"
+                            },
+                            {
+                                "name": "Vigilant Tyranus"
+                            },
+                            {
+                                "name": "Reburrus Quintilius"
+                            },
+                            {
+                                "name": "Tacitus Sallustius"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Animals",
+                "children": [
+                    {
+                        "name": "Indeterminate",
+                        "children": [
+                            {
+                                "name": "Vigilance"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Nepos the Nose"
+                            },
+                            {
+                                "name": "Rogatus Salvius"
+                            },
+                            {
+                                "name": "Donnel"
+                            },
+                            {
+                                "name": "Raerek"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Vigdis Salvius"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "High Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Aicantar"
+                            },
+                            {
+                                "name": "Calcelmo"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Morthal",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Alva"
+                            },
+                            {
+                                "name": "Agni"
+                            },
+                            {
+                                "name": "Idgrod the Younger"
+                            },
+                            {
+                                "name": "Lami"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Hroggar"
+                            },
+                            {
+                                "name": "Benor"
+                            },
+                            {
+                                "name": "Morthal Guard"
+                            },
+                            {
+                                "name": "Aslfur"
+                            },
+                            {
+                                "name": "Gorm"
+                            },
+                            {
+                                "name": "Joric"
+                            },
+                            {
+                                "name": "Valdimar"
+                            },
+                            {
+                                "name": "Jorgen"
+                            },
+                            {
+                                "name": "Thonnir"
+                            },
+                            {
+                                "name": "Virkmund"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Redguard",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Falion"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Jonna"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Idgrod Ravencrone"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Legate Taurinus Duilis"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Lurbuk"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Raven Rock",
+        "children": [
+            {
+                "name": "Dark Elf",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Bralsa Drel"
+                            },
+                            {
+                                "name": "Dreyla Alor"
+                            },
+                            {
+                                "name": "Aphia Velothi"
+                            },
+                            {
+                                "name": "Milore Ienth"
+                            },
+                            {
+                                "name": "Cindiri Arano"
+                            },
+                            {
+                                "name": "Mirri Severin"
+                            },
+                            {
+                                "name": "Tilisu Severin"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Rirns Llervu"
+                            },
+                            {
+                                "name": "Fethis Alor"
+                            },
+                            {
+                                "name": "Captain Veleth"
+                            },
+                            {
+                                "name": "Redoran Guard"
+                            },
+                            {
+                                "name": "Garyn Ienth"
+                            },
+                            {
+                                "name": "Adril Arano"
+                            },
+                            {
+                                "name": "Lleril Morvayn"
+                            },
+                            {
+                                "name": "Evul Seloth"
+                            },
+                            {
+                                "name": "Meden Maren"
+                            },
+                            {
+                                "name": "Naris Mavani"
+                            },
+                            {
+                                "name": "Tolenos Omoren"
+                            },
+                            {
+                                "name": "Geldis Sadri"
+                            },
+                            {
+                                "name": "Teldryn Sero"
+                            },
+                            {
+                                "name": "Vendil Severin"
+                            },
+                            {
+                                "name": "Elder Othreloth"
+                            },
+                            {
+                                "name": "Galdrus Hlervu"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Crescius Caerellius"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Glover Mallory"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Undead",
+                "children": [
+                    {
+                        "name": "Indeterminate",
+                        "children": [
+                            {
+                                "name": "Gratian Caerellius"
+                            },
+                            {
+                                "name": "Millius"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Mogrul"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Raven Rock, Tel Mithryn",
+        "children": [
+            {
+                "name": "Dark Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Drovas Relvi"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Riften",
+        "children": [
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Aerin"
+                            },
+                            {
+                                "name": "Marcurio"
+                            },
+                            {
+                                "name": "Francois Beaufort"
+                            },
+                            {
+                                "name": "Samuel"
+                            },
+                            {
+                                "name": "Dirge"
+                            },
+                            {
+                                "name": "Gian the Fist"
+                            },
+                            {
+                                "name": "Salvianus"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Edda"
+                            },
+                            {
+                                "name": "Alessandra"
+                            },
+                            {
+                                "name": "Constance Michel"
+                            },
+                            {
+                                "name": "Vex"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Mjoll the Lioness"
+                            },
+                            {
+                                "name": "Ingun Black-Briar"
+                            },
+                            {
+                                "name": "Maven Black-Briar"
+                            },
+                            {
+                                "name": "Grelka"
+                            },
+                            {
+                                "name": "Haelga"
+                            },
+                            {
+                                "name": "Svana Far-Shield"
+                            },
+                            {
+                                "name": "Iona"
+                            },
+                            {
+                                "name": "Runa Fair-Shield"
+                            },
+                            {
+                                "name": "Laila Law-Giver"
+                            },
+                            {
+                                "name": "Drifa"
+                            },
+                            {
+                                "name": "Sapphire"
+                            },
+                            {
+                                "name": "Hefid the Deaf"
+                            },
+                            {
+                                "name": "Nura Snow-Shod"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Snilf"
+                            },
+                            {
+                                "name": "Hemming Black-Briar"
+                            },
+                            {
+                                "name": "Maul"
+                            },
+                            {
+                                "name": "Bolli"
+                            },
+                            {
+                                "name": "Hroar"
+                            },
+                            {
+                                "name": "Harrald"
+                            },
+                            {
+                                "name": "Saerlund"
+                            },
+                            {
+                                "name": "Unmid Snow-Shod"
+                            },
+                            {
+                                "name": "Bersi Honey-Hand"
+                            },
+                            {
+                                "name": "Brynjolf"
+                            },
+                            {
+                                "name": "Vekel the Man"
+                            },
+                            {
+                                "name": "Drahff"
+                            },
+                            {
+                                "name": "Hewnon Black-Skeever"
+                            },
+                            {
+                                "name": "Molgrom Twice-Killed"
+                            },
+                            {
+                                "name": "Sibbi Black-Briar"
+                            },
+                            {
+                                "name": "Hofgrir Horse-Crusher"
+                            },
+                            {
+                                "name": "Sigaar"
+                            },
+                            {
+                                "name": "Asbjorn Fire-Tamer"
+                            },
+                            {
+                                "name": "Balimund"
+                            },
+                            {
+                                "name": "Asgeir Snow-Shod"
+                            },
+                            {
+                                "name": "Vulwulf Snow-Shod"
+                            },
+                            {
+                                "name": "Briehl"
+                            },
+                            {
+                                "name": "Arnskar Ember-Master"
+                            },
+                            {
+                                "name": "Garthar"
+                            },
+                            {
+                                "name": "Thrynn"
+                            },
+                            {
+                                "name": "Vipir the Fleet"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Argonian",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Keerava"
+                            },
+                            {
+                                "name": "From-Deepest-Fathoms"
+                            },
+                            {
+                                "name": "Wujeeta"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Talen-Jei"
+                            },
+                            {
+                                "name": "Madesi"
+                            },
+                            {
+                                "name": "Swims-In-Deep-Water"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Louis Letrush"
+                            },
+                            {
+                                "name": "Delvin Mallory"
+                            },
+                            {
+                                "name": "Cynric Endell"
+                            },
+                            {
+                                "name": "Etienne Rarnis"
+                            },
+                            {
+                                "name": "Herluin Lothaire"
+                            },
+                            {
+                                "name": "Mercer Frey"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dark Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Indaryn"
+                            },
+                            {
+                                "name": "Brand-Shei"
+                            },
+                            {
+                                "name": "Tythis Ulen"
+                            },
+                            {
+                                "name": "Dravin Llanith"
+                            },
+                            {
+                                "name": "Orini Dral"
+                            },
+                            {
+                                "name": "Sarthis Idren"
+                            },
+                            {
+                                "name": "Romlyn Dreth"
+                            },
+                            {
+                                "name": "Ravyn Imyan"
+                            },
+                            {
+                                "name": "Vanryth Gatharian"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Niluva Hlaalu"
+                            },
+                            {
+                                "name": "Marise Aravel"
+                            },
+                            {
+                                "name": "Dinya Balu"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wood Elf",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Nivenor"
+                            },
+                            {
+                                "name": "Anuriel"
+                            },
+                            {
+                                "name": "Wylandriah"
+                            },
+                            {
+                                "name": "Galathil"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Ungrien"
+                            },
+                            {
+                                "name": "Niruin"
+                            },
+                            {
+                                "name": "Syndus"
+                            },
+                            {
+                                "name": "Valindor"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Elgrim"
+                            },
+                            {
+                                "name": "Knjakr"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Hafjorg"
+                            },
+                            {
+                                "name": "Grelod the Kind"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Khajiit",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Shavari"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Redguard",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Tonilia"
+                            },
+                            {
+                                "name": "Viriya"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Shadr"
+                            },
+                            {
+                                "name": "Maramal"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Solitude",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Addvar"
+                            },
+                            {
+                                "name": "Jorn"
+                            },
+                            {
+                                "name": "Bolgeir Bearclaw"
+                            },
+                            {
+                                "name": "Falk Firebeard"
+                            },
+                            {
+                                "name": "Odar"
+                            },
+                            {
+                                "name": "Irnskar Ironhand"
+                            },
+                            {
+                                "name": "Captain Aldis"
+                            },
+                            {
+                                "name": "Solitude Guard"
+                            },
+                            {
+                                "name": "Snorreid"
+                            },
+                            {
+                                "name": "Erikur"
+                            },
+                            {
+                                "name": "Knud"
+                            },
+                            {
+                                "name": "Snilling"
+                            },
+                            {
+                                "name": "Roggvir"
+                            },
+                            {
+                                "name": "Beirand"
+                            },
+                            {
+                                "name": "Heimvar"
+                            },
+                            {
+                                "name": "Hjorunn"
+                            },
+                            {
+                                "name": "Geimund"
+                            },
+                            {
+                                "name": "Horm"
+                            },
+                            {
+                                "name": "Thaer"
+                            },
+                            {
+                                "name": "Rorlund"
+                            },
+                            {
+                                "name": "Belrand"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Greta"
+                            },
+                            {
+                                "name": "Svari"
+                            },
+                            {
+                                "name": "Illdi"
+                            },
+                            {
+                                "name": "Elisif the Fair"
+                            },
+                            {
+                                "name": "Erdi"
+                            },
+                            {
+                                "name": "Una"
+                            },
+                            {
+                                "name": "Bryling"
+                            },
+                            {
+                                "name": "Legate Rikke"
+                            },
+                            {
+                                "name": "Bjartur"
+                            },
+                            {
+                                "name": "Gisli"
+                            },
+                            {
+                                "name": "Evette San"
+                            },
+                            {
+                                "name": "Jala"
+                            },
+                            {
+                                "name": "Katla"
+                            },
+                            {
+                                "name": "Jordis the Sword-Maiden"
+                            },
+                            {
+                                "name": "Eris"
+                            },
+                            {
+                                "name": "Fridrika"
+                            },
+                            {
+                                "name": "Freir"
+                            },
+                            {
+                                "name": "Minette Vinius"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Angeline Morrard"
+                            },
+                            {
+                                "name": "Vivienne Onis"
+                            },
+                            {
+                                "name": "Sybille Stentor"
+                            },
+                            {
+                                "name": "Sabine Nytte"
+                            },
+                            {
+                                "name": "Lisette"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Giraud Gemane"
+                            },
+                            {
+                                "name": "Octieve San"
+                            },
+                            {
+                                "name": "Blaise"
+                            },
+                            {
+                                "name": "Dorian"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Aia Arria"
+                            },
+                            {
+                                "name": "Pantea Ateia"
+                            },
+                            {
+                                "name": "Gianna"
+                            },
+                            {
+                                "name": "Safia"
+                            },
+                            {
+                                "name": "Silana Petreia"
+                            },
+                            {
+                                "name": "Vittoria Vici"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Emperor Titus Mede II"
+                            },
+                            {
+                                "name": "General Tullius"
+                            },
+                            {
+                                "name": "Legate Adventus Caesennius"
+                            },
+                            {
+                                "name": "East Empire Dockmaster"
+                            },
+                            {
+                                "name": "Noster Eagle-Eye"
+                            },
+                            {
+                                "name": "Xander"
+                            },
+                            {
+                                "name": "Corpulus Vinius"
+                            },
+                            {
+                                "name": "Sorex Vinius"
+                            },
+                            {
+                                "name": "Aquillius Aeresius"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Redguard",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Ataf"
+                            },
+                            {
+                                "name": "Kayd"
+                            },
+                            {
+                                "name": "Fihada"
+                            },
+                            {
+                                "name": "Jawanan"
+                            },
+                            {
+                                "name": "Ahtar"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Sayma"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Bendt"
+                            },
+                            {
+                                "name": "Styrr"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Inge Six Fingers"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "High Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Viarmo"
+                            },
+                            {
+                                "name": "Melaran"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Endarie"
+                            },
+                            {
+                                "name": "Taarie"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Radiant",
+                "children": [
+                    {
+                        "name": "Radiant",
+                        "children": [
+                            {
+                                "name": "East Empire Warden"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Argonian",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Deeja"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Gulum-Ei"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Kharag gro-Shurkul"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Tel Mithryn",
+        "children": [
+            {
+                "name": "Dark Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Neloth"
+                            },
+                            {
+                                "name": "Talvas Fathryon"
+                            },
+                            {
+                                "name": "Ulves Romoran"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Elynea Mothren"
+                            },
+                            {
+                                "name": "Varona Nelas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Whiterun",
+        "children": [
+            {
+                "name": "Redguard",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Amren"
+                            },
+                            {
+                                "name": "Brenuin"
+                            },
+                            {
+                                "name": "Nazeem"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Braith"
+                            },
+                            {
+                                "name": "Saffir"
+                            },
+                            {
+                                "name": "Saadia"
+                            },
+                            {
+                                "name": "Ahlam"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Arcadia"
+                            },
+                            {
+                                "name": "Lucia"
+                            },
+                            {
+                                "name": "Carlotta Valentia"
+                            },
+                            {
+                                "name": "Mila Valentia"
+                            },
+                            {
+                                "name": "Ria"
+                            },
+                            {
+                                "name": "Adrianne Avenicci"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Legate Quentin Cipius"
+                            },
+                            {
+                                "name": "Proventus Avenicci"
+                            },
+                            {
+                                "name": "Commander Caius"
+                            },
+                            {
+                                "name": "Mallus Maccius"
+                            },
+                            {
+                                "name": "Severio Pelagia"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Hulda"
+                            },
+                            {
+                                "name": "Gwendolyn"
+                            },
+                            {
+                                "name": "Lydia"
+                            },
+                            {
+                                "name": "Dagny"
+                            },
+                            {
+                                "name": "Gerda"
+                            },
+                            {
+                                "name": "Olfina Gray-Mane"
+                            },
+                            {
+                                "name": "Alfhild Battle-Born"
+                            },
+                            {
+                                "name": "Aela the Huntress"
+                            },
+                            {
+                                "name": "Njada Stonearm"
+                            },
+                            {
+                                "name": "Danica Pure-Spring"
+                            },
+                            {
+                                "name": "Uthgerd the Unbroken"
+                            },
+                            {
+                                "name": "Ysolda"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Mikael"
+                            },
+                            {
+                                "name": "Sinmir"
+                            },
+                            {
+                                "name": "Sigurd"
+                            },
+                            {
+                                "name": "Wilmuth"
+                            },
+                            {
+                                "name": "Balgruuf the Greater"
+                            },
+                            {
+                                "name": "Farengar Secret-Fire"
+                            },
+                            {
+                                "name": "Frothar"
+                            },
+                            {
+                                "name": "Hjornskar Head-Smasher"
+                            },
+                            {
+                                "name": "Hrongar"
+                            },
+                            {
+                                "name": "Nelkir"
+                            },
+                            {
+                                "name": "Whiterun Guard"
+                            },
+                            {
+                                "name": "Andurs"
+                            },
+                            {
+                                "name": "Heimskr"
+                            },
+                            {
+                                "name": "Eimar"
+                            },
+                            {
+                                "name": "Sabjorn"
+                            },
+                            {
+                                "name": "Avulstein Gray-Mane"
+                            },
+                            {
+                                "name": "Eorlund Gray-Mane"
+                            },
+                            {
+                                "name": "Idolaf Battle-Born"
+                            },
+                            {
+                                "name": "Jon Battle-Born"
+                            },
+                            {
+                                "name": "Lars Battle-Born"
+                            },
+                            {
+                                "name": "Olfrid Battle-Born"
+                            },
+                            {
+                                "name": "Brill"
+                            },
+                            {
+                                "name": "Farkas"
+                            },
+                            {
+                                "name": "Kodlak Whitemane"
+                            },
+                            {
+                                "name": "Skjor"
+                            },
+                            {
+                                "name": "Torvar"
+                            },
+                            {
+                                "name": "Vilkas"
+                            },
+                            {
+                                "name": "Gloth"
+                            },
+                            {
+                                "name": "Acolyte Jenssen"
+                            },
+                            {
+                                "name": "Ulfberth War-Bear"
+                            },
+                            {
+                                "name": "Bjorlam"
+                            },
+                            {
+                                "name": "Jervar"
+                            },
+                            {
+                                "name": "Skulvar Sable-Hilt"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Belethor"
+                            },
+                            {
+                                "name": "Maurice Jondrelle"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Fianna"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dark Elf",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Irileth"
+                            },
+                            {
+                                "name": "Jenassa"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Athis"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wood Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Anoriath"
+                            },
+                            {
+                                "name": "Elrindir"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Nimriel"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Fralia Gray-Mane"
+                            },
+                            {
+                                "name": "Bergritte Battle-Born"
+                            },
+                            {
+                                "name": "Tilma the Haggard"
+                            },
+                            {
+                                "name": "Olava the Feeble"
+                            },
+                            {
+                                "name": "Lillith Maiden-Loom"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Vignar Gray-Mane"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Windhelm",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Aventus Aretino"
+                            },
+                            {
+                                "name": "Oengul War-Anvil"
+                            },
+                            {
+                                "name": "Brunwulf Free-Winter"
+                            },
+                            {
+                                "name": "Captain Lonely-Gale"
+                            },
+                            {
+                                "name": "Rolff Stone-Fist"
+                            },
+                            {
+                                "name": "Stenvar"
+                            },
+                            {
+                                "name": "Calder"
+                            },
+                            {
+                                "name": "Tulvur"
+                            },
+                            {
+                                "name": "Grimvar Cruel-Sea"
+                            },
+                            {
+                                "name": "Torsten Cruel-Sea"
+                            },
+                            {
+                                "name": "Torbjorn Shatter-Shield"
+                            },
+                            {
+                                "name": "Kjar"
+                            },
+                            {
+                                "name": "Angrenor Once-Honored"
+                            },
+                            {
+                                "name": "Gort"
+                            },
+                            {
+                                "name": "Galmar Stone-Fist"
+                            },
+                            {
+                                "name": "Jorleif"
+                            },
+                            {
+                                "name": "Ulfric Stormcloak"
+                            },
+                            {
+                                "name": "Yrsarald Thrice-Pierced"
+                            },
+                            {
+                                "name": "Lortheim"
+                            },
+                            {
+                                "name": "Alfarinn"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Hermir Strong-Heart"
+                            },
+                            {
+                                "name": "Bolfrida Brandy-Mug"
+                            },
+                            {
+                                "name": "Elda Early-Dawn"
+                            },
+                            {
+                                "name": "Susanna the Wicked"
+                            },
+                            {
+                                "name": "Adisla"
+                            },
+                            {
+                                "name": "Hillevi Cruel-Sea"
+                            },
+                            {
+                                "name": "Nilsine Shatter-Shield"
+                            },
+                            {
+                                "name": "Tova Shatter-Shield"
+                            },
+                            {
+                                "name": "Silda the Unseen"
+                            },
+                            {
+                                "name": "Sofie"
+                            },
+                            {
+                                "name": "Jora"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Argonian",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Neetrenaza"
+                            },
+                            {
+                                "name": "Scouts-Many-Marshes"
+                            },
+                            {
+                                "name": "Stands-In-Shallows"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Shahvee"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dark Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Aval Atheron"
+                            },
+                            {
+                                "name": "Faryl Atheron"
+                            },
+                            {
+                                "name": "Belyn Hlaalu"
+                            },
+                            {
+                                "name": "Ambarys Rendar"
+                            },
+                            {
+                                "name": "Malthyr Elenil"
+                            },
+                            {
+                                "name": "Revyn Sadri"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Suvaris Atheron"
+                            },
+                            {
+                                "name": "Luaffyn"
+                            },
+                            {
+                                "name": "Idesa Sadri"
+                            },
+                            {
+                                "name": "Voldsea Giryon"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Calixto Corrium"
+                            },
+                            {
+                                "name": "Adonato Leotelli"
+                            },
+                            {
+                                "name": "Orthus Endario"
+                            },
+                            {
+                                "name": "Quintus Navale"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Adelaisa Vendicci"
+                            },
+                            {
+                                "name": "Viola Giordano"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Nils"
+                            },
+                            {
+                                "name": "Sifnar Ironkettle"
+                            },
+                            {
+                                "name": "Wuunferth the Unliving"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Helgird"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Animals",
+                "children": [
+                    {
+                        "name": "Indeterminate",
+                        "children": [
+                            {
+                                "name": "Tiber"
+                            },
+                            {
+                                "name": "Ysgramor"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "High Elf",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Niranye"
+                            },
+                            {
+                                "name": "Arivanya"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Nurelion"
+                            },
+                            {
+                                "name": "Ulundil"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Dalan Merchad"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Solitude then Windhelm",
+        "children": [
+            {
+                "name": "Wood Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Malborn"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Winterhold",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Birna"
+                            },
+                            {
+                                "name": "Eirid"
+                            },
+                            {
+                                "name": "Haran"
+                            },
+                            {
+                                "name": "Thaena"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Ranmir"
+                            },
+                            {
+                                "name": "Onmund"
+                            },
+                            {
+                                "name": "Dagur"
+                            },
+                            {
+                                "name": "Assur"
+                            },
+                            {
+                                "name": "Kai Wet-Pommel"
+                            },
+                            {
+                                "name": "Korir"
+                            },
+                            {
+                                "name": "Kraldar"
+                            },
+                            {
+                                "name": "Thonjolf"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "High Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Ancano"
+                            },
+                            {
+                                "name": "Nelacar"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Nirya"
+                            },
+                            {
+                                "name": "Faralda"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dark Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Savos Aren"
+                            },
+                            {
+                                "name": "Drevis Neloren"
+                            },
+                            {
+                                "name": "Malur Seloth"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Brelyna Maryon"
+                            },
+                            {
+                                "name": "Aranea Ienith"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Urag gro-Shub"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Arniel Gane"
+                            },
+                            {
+                                "name": "Phinis Gestor"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Mirabelle Ervine"
+                            },
+                            {
+                                "name": "Colette Marence"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wood Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Enthir"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Khajiit",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "J'zargo"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Tolfdir"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Sergius Turrianus"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dragon Bridge",
+        "children": [
+            {
+                "name": "Redguard",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Azzada Lylvieve"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Clinton Lylvieve"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Julienne Lylvieve"
+                            },
+                            {
+                                "name": "Michel Lylvieve"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Aldepius"
+                            },
+                            {
+                                "name": "Varnius Junius"
+                            },
+                            {
+                                "name": "Commander Maro"
+                            },
+                            {
+                                "name": "Gaius Maro"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Faida"
+                            },
+                            {
+                                "name": "Olda"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Horgeir"
+                            },
+                            {
+                                "name": "Lodvar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Helgen",
+        "children": [
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Gunnar Stone-Eye"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Ingrid"
+                            },
+                            {
+                                "name": "Matlara"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Torolf"
+                            },
+                            {
+                                "name": "Vilod"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Imperial Captain"
+                            },
+                            {
+                                "name": "Priestess of Arkay"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Riverwood",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Hadvar"
+                            },
+                            {
+                                "name": "Ralof"
+                            },
+                            {
+                                "name": "Alvor"
+                            },
+                            {
+                                "name": "Frodnar"
+                            },
+                            {
+                                "name": "Hod"
+                            },
+                            {
+                                "name": "Embry"
+                            },
+                            {
+                                "name": "Orgnar"
+                            },
+                            {
+                                "name": "Sven"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Dorthe"
+                            },
+                            {
+                                "name": "Sigrid"
+                            },
+                            {
+                                "name": "Gerdur"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wood Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Faendal"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Camilla Valerius"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Lucan Valerius"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Delphine"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Hilde"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Ivarstead",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Boti"
+                            },
+                            {
+                                "name": "Fastred"
+                            },
+                            {
+                                "name": "Lynly Star-Sung"
+                            },
+                            {
+                                "name": "Temba Wide-Arm"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Jofthor"
+                            },
+                            {
+                                "name": "Klimmek"
+                            },
+                            {
+                                "name": "Wilhelm"
+                            },
+                            {
+                                "name": "Barknar"
+                            },
+                            {
+                                "name": "Narfi"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Radiant",
+                        "children": [
+                            {
+                                "name": "Ivarstead Guard"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Wood Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Gwilin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Riften (After his quest)",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Bassianus Axius"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Karthwasten",
+        "children": [
+            {
+                "name": "Breton",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Enmon"
+                            },
+                            {
+                                "name": "Ainethach"
+                            },
+                            {
+                                "name": "Belchimac"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Mena"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Lash gra-Dushnikh"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Ragnar"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Rorikstead",
+        "children": [
+            {
+                "name": "Redguard",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Ennis"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Halvar"
+                            },
+                            {
+                                "name": "Erik the Slayer"
+                            },
+                            {
+                                "name": "Mralki"
+                            },
+                            {
+                                "name": "Lemkil"
+                            },
+                            {
+                                "name": "Rorik"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Britte"
+                            },
+                            {
+                                "name": "Sissel"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "High Elf",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Reldith"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Jouane Manette"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Shor's Stone",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Filnjar"
+                            },
+                            {
+                                "name": "Odfel"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Sylgja"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Radiant",
+                        "children": [
+                            {
+                                "name": "Shor's Stone Guard"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Grogmar gro-Burzag"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Skaal Village",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Baldor Iron-Shaper"
+                            },
+                            {
+                                "name": "Deor Woodcutter"
+                            },
+                            {
+                                "name": "Nikulas"
+                            },
+                            {
+                                "name": "Wulf Wild-Blood"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Edla"
+                            },
+                            {
+                                "name": "Fanari Strong-Voice"
+                            },
+                            {
+                                "name": "Morwen"
+                            },
+                            {
+                                "name": "Aeta"
+                            },
+                            {
+                                "name": "Finna"
+                            },
+                            {
+                                "name": "Frea"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Elder",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Tharstan"
+                            },
+                            {
+                                "name": "Storn Crag-Strider"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Temple of Miraak, Skaal Village",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Oslaf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dushnikh Yal",
+        "children": [
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Chief Burguk"
+                            },
+                            {
+                                "name": "Ghorbash the Iron Hand"
+                            },
+                            {
+                                "name": "Nagrub"
+                            },
+                            {
+                                "name": "Mahk"
+                            },
+                            {
+                                "name": "Oglub"
+                            },
+                            {
+                                "name": "Umurn"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Arob"
+                            },
+                            {
+                                "name": "Gharol"
+                            },
+                            {
+                                "name": "Murbul"
+                            },
+                            {
+                                "name": "Shel"
+                            },
+                            {
+                                "name": "Dulug"
+                            },
+                            {
+                                "name": "Ghak"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Largashbur",
+        "children": [
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Chief Yamarz"
+                            },
+                            {
+                                "name": "Gularzob"
+                            },
+                            {
+                                "name": "Lob"
+                            },
+                            {
+                                "name": "Ogol"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Atub"
+                            },
+                            {
+                                "name": "Garakh"
+                            },
+                            {
+                                "name": "Ugor"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mor Khazgur",
+        "children": [
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Chief Larak"
+                            },
+                            {
+                                "name": "Ghamorz"
+                            },
+                            {
+                                "name": "Olur"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Bagrak"
+                            },
+                            {
+                                "name": "Borgakh the Steel Heart"
+                            },
+                            {
+                                "name": "Sharamph"
+                            },
+                            {
+                                "name": "Shuftharz"
+                            },
+                            {
+                                "name": "Gul"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Narzulbur",
+        "children": [
+            {
+                "name": "Orc",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Chief Mauhulakh"
+                            },
+                            {
+                                "name": "Dushnamub"
+                            },
+                            {
+                                "name": "Gadba gro-Largash"
+                            },
+                            {
+                                "name": "Mul gro-Largash"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Bolar"
+                            },
+                            {
+                                "name": "Urog"
+                            },
+                            {
+                                "name": "Yatul"
+                            },
+                            {
+                                "name": "Bor"
+                            },
+                            {
+                                "name": "Mogdurz"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Darkwater Crossing",
+        "children": [
+            {
+                "name": "Argonian",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Derkeethus"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Hrefna"
+                            },
+                            {
+                                "name": "Tormir"
+                            },
+                            {
+                                "name": "Annekke Crag-Jumper"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Verner Rock-Chucker"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Dark Elf",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Sondas Drenim"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "any city captured by the Stormcloaks",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Radiant",
+                        "children": [
+                            {
+                                "name": "Stormcloak Guard"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kynesgrove",
+        "children": [
+            {
+                "name": "Dark Elf",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Dravynea the Stoneweaver"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Iddra"
+                            },
+                            {
+                                "name": "Klija Wolf-Claw"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Kjeld"
+                            },
+                            {
+                                "name": "Kjeld the Younger"
+                            },
+                            {
+                                "name": "Roggi Knot-Beard"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Imperial",
+                "children": [
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Ganna Uriel"
+                            },
+                            {
+                                "name": "Gemma Uriel"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Stonehills",
+        "children": [
+            {
+                "name": "Nord",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Pactur"
+                            },
+                            {
+                                "name": "Sirgar"
+                            },
+                            {
+                                "name": "Gestur Rockbreaker"
+                            },
+                            {
+                                "name": "Hjaalmarch Guard"
+                            },
+                            {
+                                "name": "Jesper"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Female",
+                        "children": [
+                            {
+                                "name": "Sorli the Builder"
+                            },
+                            {
+                                "name": "Swanhvir"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Argonian",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Teeba-Ei"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Corinthe",
+        "children": [
+            {
+                "name": "Khajiit",
+                "children": [
+                    {
+                        "name": "Male",
+                        "children": [
+                            {
+                                "name": "Ma'dran"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
+}

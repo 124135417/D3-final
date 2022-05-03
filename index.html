@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html style="background-color: rgb(241, 224, 169);">
+
+<head>
+    <meta charset="utf-8">
+    <title>External SVG + D3</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <style>
+        @import url('http://fonts.cdnfonts.com/css/goudy-mediaeval');
+
+        .node {
+            cursor: pointer;
+        }
+
+        .node:hover {
+            stroke: rgb(255, 255, 255);
+            stroke-width: 1.5px;
+        }
+
+        .node--leaf {
+            fill: rgb(136, 39, 39);
+        }
+
+        .label {
+            /* fill: aliceblue; */
+            font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
+            text-anchor: middle;
+            text-shadow: 0 1px 0 rgb(255, 255, 255), 1px 0 0 rgb(255, 255, 255), -1px 0 0 #fff, 0 -1px 0 #fff;
+        }
+
+        .label,
+        .node--root,
+        .node--leaf {
+            pointer-events: none;
+        }
+
+        div.a {
+            text-align: center;
+            font-size: 40px;
+        }
+
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+
+        .aParent div {
+            display: flex;
+        }
+
+        div.title {
+            text-align: center;
+            font-size: 40px;
+        }
+
+        .map {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .interaction {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: 200px;
+            margin-bottom: 50px;
+        }
+
+        .intro {
+            font-size: 25px;
+            margin-right: 200px;
+            margin-left: 200px;
+            margin-top: 90px;
+            font-family: 'Goudy Mediaeval', sans-serif;
+        }
+
+        .title {
+            font-size: 70px;
+            margin-right: 200px;
+            margin-left: 200px;
+            margin-top: 80px;
+            font-family: 'Goudy Mediaeval', sans-serif;
+        }
+
+        .body {
+
+            align-items: right;
+            font-size: 25px;
+            margin-right: 200px;
+            margin-left: 200px;
+            margin-top: 20px;
+            margin-bottom: 60px;
+            font-family: 'Goudy Mediaeval', sans-serif;
+        }
+
+        .body2 {
+
+            align-items: right;
+            font-size: 25px;
+            width: 35%;
+            margin-left: 80px;
+            margin-top: 20px;
+            margin-right: 200px;
+            margin-bottom: 100px;
+            font-family: 'Goudy Mediaeval', sans-serif;
+        }
+
+        .body3 {
+
+            align-items: right;
+            font-size: 25px;
+            width: auto;
+            margin-left: 200px;
+            margin-top: 0px;
+            margin-right: 200px;
+            margin-bottom: 90px;
+            font-family: 'Goudy Mediaeval', sans-serif;
+        }
+        .reference {
+
+            align-items: right;
+            font-size: 25px;
+            width: 35%;
+            margin-left: 200px;
+            margin-top: 0px;
+            margin-right: 200px;
+            margin-bottom: 100px;
+            font-family: 'Goudy Mediaeval', sans-serif;
+        }
+
+        p::first-letter {
+            font-size: 200%;
+
+        }
+    </style>
+</head>
+
+
+
+<div>
+    <div>
+        <h1 class="title">Skyrim Census</h1>
+        <p class="intro">The fifth installment of The Elder Scrolls takes place in Skyrim, where peace and stability is
+            threatened by the ongoing civil war between a Nordic separatist faction called the Stormcloaks and the
+            Empire's Imperial Legion, as well as the return of the dragons under the game's main antagonist, the great
+            dragon Alduin.
+            <br>
+            <br>
+            Skyrim is the northernmost region of Tamriel and its geography consists of mountains, snowy tundras, pine
+            forests, rural countrysides, and arctic plains. Its architecture and atmosphere are very similar to the town
+            of Bruma in The Elder Scrolls IV: Oblivion. Although it is roughly the same size as Oblivion's Cyrodiil
+            (approximately 41 square kilometers in area or 15.8 square miles)[1], it is the least populated of all
+            regions
+            in Tamriel. Although there are only five cities within the province, they are complemented with smaller
+            townships dotted through the land with huge swathes of wilderness separating them all.
+        </p>
+
+        <div id="svg-container" class="map"></div>
+        <div>
+            <p class="body">
+                Below is the visualization of the composition of Skyrim. The group is divided by city, race, and gender
+                at last.
+                You can click on certain group to see further categories in the selected group.
+            </p>
+        </div>
+        <script>
+            d3.select("#svg-container").append("img")
+                .attr("src", "SR-map-Skyrim_DE.svg")
+                .attr("width", 1000)
+                .attr("height", 800)
+        </script>
+
+    </div>
+    <div class="interaction">
+        <svg width="600" height="600"></svg>
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+
+        <script>
+
+            var svg = d3.select("svg"),
+                margin = 30,
+                diameter = +svg.attr("width"),
+                g = svg.append("g").attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
+
+            var color = d3.scaleLinear()
+                .domain([1, 4])
+                .range(["hsl(36, 69%, 66%)", "hsl(26, 69%, 47%)"])
+                .interpolate(d3.interpolateHcl);
+
+            var pack = d3.pack()
+                .size([diameter - margin, diameter - margin])
+                .padding(2);
+
+            d3.json("result.json", function (error, root) {
+                if (error) throw error;
+
+                root = d3.hierarchy(root)
+                    .sum(function (d) { return 0.2; })
+                    .sort(function (a, b) { return 1; });
+
+                var focus = root,
+                    nodes = pack(root).descendants(),
+                    view;
+
+                var circle = g.selectAll("circle")
+                    .data(nodes)
+                    .enter().append("circle")
+                    .attr("class", function (d) { return d.parent ? d.children ? "node" : "node node--leaf" : "node node--root"; })
+                    .style("fill", function (d) { return d.children ? color(d.depth) : null; })
+                    .on("click", function (d) { if (focus !== d) zoom(d), d3.event.stopPropagation(); });
+
+                var text = g.selectAll("text")
+                    .data(nodes)
+                    .enter().append("text")
+                    .attr("class", "label")
+                    .style("fill-opacity", function (d) { return d.parent === root ? 1 : 0; })
+                    .style("display", function (d) { return d.parent === root ? "inline" : "none"; })
+                    .text(function (d) { return d.data.name; });
+
+                var node = g.selectAll("circle,text");
+
+                svg
+                    .style("background", color(-1))
+                    .on("click", function () { zoom(root); });
+
+                zoomTo([root.x, root.y, root.r * 2 + margin]);
+
+                function zoom(d) {
+                    var focus0 = focus; focus = d;
+
+                    var transition = d3.transition()
+                        .duration(d3.event.altKey ? 7500 : 750)
+                        .tween("zoom", function (d) {
+                            var i = d3.interpolateZoom(view, [focus.x, focus.y, focus.r * 2 + margin]);
+                            return function (t) { zoomTo(i(t)); };
+                        });
+
+                    transition.selectAll("text")
+                        .filter(function (d) { return d.parent === focus || this.style.display === "inline"; })
+                        .style("fill-opacity", function (d) { return d.parent === focus ? 1 : 0; })
+                        .on("start", function (d) { if (d.parent === focus) this.style.display = "inline"; })
+                        .on("end", function (d) { if (d.parent !== focus) this.style.display = "none"; });
+                }
+
+                function zoomTo(v) {
+                    var k = diameter / v[2]; view = v;
+                    node.attr("transform", function (d) { return "translate(" + (d.x - v[0]) * k + "," + (d.y - v[1]) * k + ")"; });
+                    circle.attr("r", function (d) { return d.r * k; });
+                }
+            });
+
+        </script>
+        <p class="body2">Skyrim is home to the Nords, a race of tall humans who are generally known for being fierce
+            warriors. Nords play a significant role in
+            Skyrim's main story, and they also get bonus resistance to frost damage. Nords make up a majority of the
+            population of Skyrim,with the high number of Imperials in Skyrim being one of the reasons[2]. Additionally,
+            immigrants may be coming from the neighboring provinces of High Rock and Morrowind. </p>
+
+    </div>
+    <div>
+        <p class="body3">Reference<br>
+            1: https://en.uesp.net/wiki/Lore:Main_Page<br>
+            2: https://gamerant.com/skyrim-player-witnesses-imperial-courier-being-murdered-by-stormcloaks/
+        </p>
+
+        
+    </div>
+</div>
+
+
+
+</html>
